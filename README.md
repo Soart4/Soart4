@@ -35,5 +35,6 @@ Relevance: Understanding automotive data patterns is crucial for manufacturers, 
 - **[Certificate 2: Catia-V5] - [Link to Certificate](https://github.com/Soart4/Soart4/blob/main/ibb_Catia_V-5.pdf)
 - **[Certificate 3: Promt_Engineering] - [Link to Certificate](https://github.com/Soart4/Soart4/blob/main/UC-99be05d0-e6c9-46b6-b954-1249aae330f9.pdf)
 - **[Certificate 4: ML and Data Science] - [Link to Certificate](https://github.com/Soart4/Soart4/blob/main/UC-b3b04903-1505-48ef-8e5a-bd30e17baa47.pdf)
+- **[Certificate 5: Die komplette SQL Masterclass] - [Link to Certificate](https://github.com/Soart4/Soart4/blob/main/UC-f228f35e-c9a5-4043-a771-ac43a716400d.pdf)
 ## 🔹 Let's Connect!
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, don’t hesitate to reach out!
