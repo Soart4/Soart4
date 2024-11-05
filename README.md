@@ -1,21 +1,27 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
-Hi there! I’m Artem, a passionate Mechanical Engineer transitioning to IT and AI Specialist with a strong background in CAD design, technical management, and production optimization. I am currently expanding my skills in IT, focusing on Prompt Engineering, Machine Learning, and System Integration.
+
+Hi there! I’m Artem, a Mechanical Engineer transitioning to IT and AI, with expertise in CAD design, data processing, and production optimization. I'm currently 
+deepening my skills in Machine Learning, Python, and System Integration.
 
 ## 🔹 Current Focus:
-Developing expertise in Python, R, and machine learning frameworks. Building practical applications like data processing models and AI-driven solutions.
-## 🔹 Professional Journey:
-Inventum (Design Engineer): Specialized in CAD design and 3D modeling.
-Hapstone (Chief Engineer): Led production and technical process optimization.
-Elfa (Chief Engineer): Managed technical processes and procurement.
-ZMV (Head of Production): Directed metal structure production and project documentation.
+Advancing knowledge in Python, R, and machine learning frameworks, focusing on practical applications like data processing models and AI-driven solutions.
+
+## 🔹 Professional Background:
+- **Inventum (Design Engineer):** Specialized in CAD design and 3D modeling, contributing to technical precision and product design improvements.
+- **Hapstone (Engineer):** Implemented optimization techniques in production processes, enhancing technical workflows and design documentation.
+- **Technical Support Specialist:** Developed AI-driven automation tools, including Telegram bots and data pipelines, to streamline technical support processes.
+
 ## 🔹 Projects & Interests:
-Machine Learning & Data Science: Exploring AI models and data analysis.
-Automation & Integration: Developing tools like Telegram bots for technical support.
-Continuous Learning: Engaged in courses on Python, Prompt Engineering, and CATIA V5.
+- **Machine Learning & Data Science:** Exploring AI models, data analysis, and predictive modeling using frameworks like TensorFlow and PyTorch.
+- **Automation & Integration:** Developing technical support automation and system integration tools to improve process efficiency.
+- **Continuous Learning:** Actively engaged in coursework on Python, Prompt Engineering, Machine Learning, and CATIA V5.
+
 ## 🔹 Skills & Tools:
-Programming Languages: Python, R, HTML
-CAD Software: Autodesk Inventor, Catia V5, AutoCAD
-Others: Data Analysis, Machine Learning, System Integration
+- **Programming Languages:** Python, R, HTML
+- **Machine Learning & Data Science:** TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas
+- **CAD Software:** Autodesk Inventor, CATIA V5, AutoCAD
+- **Other Skills:** Data Analysis, System Integration, and Prompt Engineering 
+
 ## 🔹 Examples of My Work:
 ### 📊 Project 1: Data Analysis with CNN
 Description: Application of Convolutional Neural Networks (CNN) for data analysis and deriving meaningful results.
@@ -30,6 +36,10 @@ Description: Development and presentation of a Telegram bot for automation of us
 Objective: Perform an exploratory data analysis (EDA) on an automotive dataset to uncover patterns and insights.
 Relevance: Understanding automotive data patterns is crucial for manufacturers, sellers, and buyers for informed decision-making.
 [Download PDF](https://github.com/Soart4/Soart4/raw/main/Autos.pdf)
+### 📈 Project 5: Drone Trajectory Simulation
+Objective: This project simulates a drone's trajectory under varying initial velocities, launch angles, weather conditions, and wind factors. 
+The simulation logs each data point, allowing detailed analysis of position, velocity, and environmental impacts on flight path.
+[Download PDF](https://github.com/Soart4/Soart4/blob/main/Drone_Trajectory_Simulation.pdf)
 ## 🔹 Certificates:
 - **[Certificate 1: Python Project] - [Link to Certificate](https://github.com/Soart4/Soart4/blob/main/zert_python.pdf)
 - **[Certificate 2: Catia-V5] - [Link to Certificate](https://github.com/Soart4/Soart4/blob/main/ibb_Catia_V-5.pdf)
